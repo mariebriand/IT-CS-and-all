@@ -12,9 +12,9 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 | `__mid_emphasis__`                   | __mid_emphasis__                     |
 | `_**big_emphasis**_`                 | _**big_emphasis**_                   |
 | `___big_emphasis___`                 | ___big_emphasis___                   |
-| `> citation`                          |  > citation                           |
-| `
 
+`> Citation`
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas congue felis, ac fermentum ipsum finibus vitae. Donec aliquet, nisl porta convallis sagittis, lacus nulla vestibulum nunc, ac aliquet arcu metus a massa. Nam nisi nunc, vestibulum et ante sed, pretium egestas augue. Aliquam vulputate at ex vitae pharetra. 
 
 
 
