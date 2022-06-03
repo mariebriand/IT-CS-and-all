@@ -6,9 +6,9 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 
 | Titre 1       |     Titre 2     |
 | :------------ | --------------: |
-| Colonne       |     Colonne     |
-| Alignée à     |   Alignée au    |
-| Gauche        |     Centre      |
+| `*emphase*`      |     |
+|     |    |
+|         |       |
 
-`*emphase*`
+
 
