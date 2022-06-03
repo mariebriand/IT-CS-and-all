@@ -46,10 +46,5 @@ ___italic and bold___
 `> Citation`
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas congue felis, ac fermentum ipsum finibus vitae. Donec aliquet, nisl porta convallis sagittis, lacus nulla vestibulum nunc, ac aliquet arcu metus a massa. Nam nisi nunc, vestibulum et ante sed, pretium egestas augue. Aliquam vulputate at ex vitae pharetra. 
 
-`- List 1 \n- List 2 \n-List 3`
-
-- List 1
-- List 2
-- List 3
 
 
