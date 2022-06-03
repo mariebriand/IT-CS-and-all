@@ -6,14 +6,23 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 
 ## Text attributes ##
 
-| Markdown                             |                            Rendering |
-| :----------------------------------- | -----------------------------------: |
-| `*little_emphasis*`                  | *little_emphasis*                    |
-| `_little_emphasis_`                  | _little_emphasis_                    |
-| `**mid_emphasis**`                   | **mid_emphasis**                     | 
-| `__mid_emphasis__`                   | __mid_emphasis__                     |
-| `_**big_emphasis**_`                 | _**big_emphasis**_                   |
-| `___big_emphasis___`                 | ___big_emphasis___                   |
+`*little_emphasis*`
+*little_emphasis* 
+
+`_little_emphasis_`
+_little_emphasis_ 
+
+`**mid_emphasis**`
+**mid_emphasis**
+
+`__mid_emphasis__`
+__mid_emphasis__ 
+
+`_**big_emphasis**_`
+_**big_emphasis**_
+
+`___big_emphasis___`
+___big_emphasis___
 
 ## Heading ##
 
