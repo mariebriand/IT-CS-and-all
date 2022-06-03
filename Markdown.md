@@ -4,11 +4,10 @@
 Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.
 Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
 
-| Titre 1       |     Titre 2     |
-| :------------ | --------------: |
-| `*emphase*`      |     |
-|     |    |
-|         |       |
+| Titre 1                              |                              Titre 2 |
+| :----------------------------------- | -----------------------------------: |
+| `*emphase*`                          |                        *emphase*     |
+
 
 
 
