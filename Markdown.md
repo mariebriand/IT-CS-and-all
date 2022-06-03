@@ -41,14 +41,13 @@ ___italic and bold___
 ##### H5 #####
 
 `###### H6 ######`
-####### H6 ######
+###### H6 ######
 
 `> Citation`
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas congue felis, ac fermentum ipsum finibus vitae. Donec aliquet, nisl porta convallis sagittis, lacus nulla vestibulum nunc, ac aliquet arcu metus a massa. Nam nisi nunc, vestibulum et ante sed, pretium egestas augue. Aliquam vulputate at ex vitae pharetra. 
 
-`- List 1    
-- List 2    
-- List 3`
+`    Première ligne de code
+    Deuxième ligne`
 
 - List 1
 - List 2
