@@ -4,8 +4,6 @@
 Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.
 Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
 
-## Text attributes ##
-
 `*italic*`
 *italic* 
 
@@ -24,7 +22,8 @@ _**italic and bold**_
 `___italic and bold___`
 ___italic and bold___
 
-## Heading ##
+`~~crossed out~~`
+~~crossed out~~
 
 `# H1 #`
 # H1 #
@@ -35,9 +34,24 @@ ___italic and bold___
 `### H3 ###`
 ### H3 ###
 
+`#### H4 ####`
+#### H4 ####
+
+`##### H5 #####`
+##### H5 #####
+
+`###### H6 ######`
+####### H6 ######
 
 `> Citation`
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas congue felis, ac fermentum ipsum finibus vitae. Donec aliquet, nisl porta convallis sagittis, lacus nulla vestibulum nunc, ac aliquet arcu metus a massa. Nam nisi nunc, vestibulum et ante sed, pretium egestas augue. Aliquam vulputate at ex vitae pharetra. 
 
+`- List 1
+- List 2
+- List 3`
+
+- List 1
+- List 2
+- List 3
 
 
