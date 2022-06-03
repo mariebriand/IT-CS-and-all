@@ -6,23 +6,23 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 
 ## Text attributes ##
 
-`*little_emphasis*`
-*little_emphasis* 
+`*italic*`
+*italic* 
 
-`_little_emphasis_`
-_little_emphasis_ 
+`italic`
+italic 
 
-`**mid_emphasis**`
-**mid_emphasis**
+`**bold**`
+**bold**
 
-`__mid_emphasis__`
-__mid_emphasis__ 
+`__bold__`
+__bold__ 
 
-`_**big_emphasis**_`
-_**big_emphasis**_
+`_**italic and bold**_`
+_**italic and bold**_
 
-`___big_emphasis___`
-___big_emphasis___
+`___italic and bold___`
+___italic and bold___
 
 ## Heading ##
 
@@ -34,6 +34,7 @@ ___big_emphasis___
 
 `### H3 ###`
 ### H3 ###
+
 
 `> Citation`
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas congue felis, ac fermentum ipsum finibus vitae. Donec aliquet, nisl porta convallis sagittis, lacus nulla vestibulum nunc, ac aliquet arcu metus a massa. Nam nisi nunc, vestibulum et ante sed, pretium egestas augue. Aliquam vulputate at ex vitae pharetra. 
