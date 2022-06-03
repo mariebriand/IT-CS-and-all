@@ -47,7 +47,8 @@ ___italic and bold___
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas congue felis, ac fermentum ipsum finibus vitae. Donec aliquet, nisl porta convallis sagittis, lacus nulla vestibulum nunc, ac aliquet arcu metus a massa. Nam nisi nunc, vestibulum et ante sed, pretium egestas augue. Aliquam vulputate at ex vitae pharetra. 
 
 # Resources #
-https://fr.wikipedia.org/wiki/Markdown
+
+https://fr.wikipedia.org/wiki/Markdown  
 https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/
 
 
