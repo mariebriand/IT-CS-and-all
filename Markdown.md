@@ -6,8 +6,11 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 
 | Titre 1                              |                              Titre 2 |
 | :----------------------------------- | -----------------------------------: |
-| `*emphase*`                          | *emphase*                            |
-| `_emphase_`                          | _emphase_                            |
-| `**grande_emphase**`                 |  **grande_emphase**                  |     
+| `*little_emphasis*`                  | *little_emphasis*                    |
+| `_little_emphasis_`                  | _little_emphasis_                    |
+| `**mid_emphasise**`                  | **mid_emphasise**                    | 
+| `__mid_emphasis__`                   | __mid_emphasise__                    |
+| `_**big_emphasis**_`                 | _**big_emphasis**_                   |
+| `___big_emphasis___`                 | ___big_emphasis___                   |
 
 
